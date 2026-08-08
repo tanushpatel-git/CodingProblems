@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanushpatel-git/CodingProblems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushpatel-git/CodingProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/tanushpatel-git/CodingProblems/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanushpatel-git/CodingProblems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushpatel-git/CodingProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/tanushpatel-git/CodingProblems/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -28,8 +30,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanushpatel-git/CodingProblems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/tanushpatel-git/CodingProblems/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanushpatel-git/CodingProblems/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/tanushpatel-git/CodingProblems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/tanushpatel-git/CodingProblems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
