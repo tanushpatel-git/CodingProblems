@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tanushpatel-git/CodingProblems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushpatel-git/CodingProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/tanushpatel-git/CodingProblems/tree/master/0042-trapping-rain-water) |
+| [0198-house-robber](https://github.com/tanushpatel-git/CodingProblems/tree/master/0198-house-robber) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanushpatel-git/CodingProblems/tree/master/0042-trapping-rain-water) |
+| [0198-house-robber](https://github.com/tanushpatel-git/CodingProblems/tree/master/0198-house-robber) |
 ## Monotonic Stack
 |  |
 | ------- |
