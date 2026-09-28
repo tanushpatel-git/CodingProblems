@@ -74,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/tanushpatel-git/CodingProblems/tree/master/0231-power-of-two) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/tanushpatel-git/CodingProblems/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
