@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/tanushpatel-git/CodingProblems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tanushpatel-git/CodingProblems/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/tanushpatel-git/CodingProblems/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/tanushpatel-git/CodingProblems/tree/master/0237-delete-node-in-a-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/tanushpatel-git/CodingProblems/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/tanushpatel-git/CodingProblems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
