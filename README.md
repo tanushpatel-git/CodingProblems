@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/tanushpatel-git/CodingProblems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tanushpatel-git/CodingProblems/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/tanushpatel-git/CodingProblems/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/tanushpatel-git/CodingProblems/tree/master/0231-power-of-two) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tanushpatel-git/CodingProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Array
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tanushpatel-git/CodingProblems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushpatel-git/CodingProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/tanushpatel-git/CodingProblems/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/tanushpatel-git/CodingProblems/tree/master/0048-rotate-image) |
 | [0198-house-robber](https://github.com/tanushpatel-git/CodingProblems/tree/master/0198-house-robber) |
 | [0881-boats-to-save-people](https://github.com/tanushpatel-git/CodingProblems/tree/master/0881-boats-to-save-people) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tanushpatel-git/CodingProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tanushpatel-git/CodingProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/tanushpatel-git/CodingProblems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
