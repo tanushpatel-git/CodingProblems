@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/tanushpatel-git/CodingProblems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/tanushpatel-git/CodingProblems/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/tanushpatel-git/CodingProblems/tree/master/0231-power-of-two) |
+| [0371-sum-of-two-integers](https://github.com/tanushpatel-git/CodingProblems/tree/master/0371-sum-of-two-integers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tanushpatel-git/CodingProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/tanushpatel-git/CodingProblems/tree/master/0231-power-of-two) |
+| [0371-sum-of-two-integers](https://github.com/tanushpatel-git/CodingProblems/tree/master/0371-sum-of-two-integers) |
 ## Recursion
 |  |
 | ------- |
