@@ -1,5 +1,5 @@
 class Solution {
-
+    // i have to optamise it also 
     public boolean checkPalindrom(String sub){
         int left = 0;
         int right = sub.length()-1;
