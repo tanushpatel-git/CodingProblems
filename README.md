@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanushpatel-git/CodingProblems/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/tanushpatel-git/CodingProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tanushpatel-git/CodingProblems/tree/master/0237-delete-node-in-a-linked-list) |
 ## Bit Manipulation
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanushpatel-git/CodingProblems/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/tanushpatel-git/CodingProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/tanushpatel-git/CodingProblems/tree/master/0231-power-of-two) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tanushpatel-git/CodingProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Database
