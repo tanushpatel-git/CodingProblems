@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanushpatel-git/CodingProblems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/tanushpatel-git/CodingProblems/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/tanushpatel-git/CodingProblems/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanushpatel-git/CodingProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/tanushpatel-git/CodingProblems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/tanushpatel-git/CodingProblems/tree/master/0058-length-of-last-word) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanushpatel-git/CodingProblems/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/tanushpatel-git/CodingProblems/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/tanushpatel-git/CodingProblems/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/tanushpatel-git/CodingProblems/tree/master/0198-house-robber) |
 ## Monotonic Stack
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanushpatel-git/CodingProblems/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/tanushpatel-git/CodingProblems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/tanushpatel-git/CodingProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/tanushpatel-git/CodingProblems/tree/master/0231-power-of-two) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tanushpatel-git/CodingProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
