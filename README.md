@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/tanushpatel-git/CodingProblems/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/tanushpatel-git/CodingProblems/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/tanushpatel-git/CodingProblems/tree/master/0371-sum-of-two-integers) |
 ## Recursion
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanushpatel-git/CodingProblems/tree/master/0005-longest-palindromic-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/tanushpatel-git/CodingProblems/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
