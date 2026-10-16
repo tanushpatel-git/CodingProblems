@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanushpatel-git/CodingProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/tanushpatel-git/CodingProblems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/tanushpatel-git/CodingProblems/tree/master/0058-length-of-last-word) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/tanushpatel-git/CodingProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanushpatel-git/CodingProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/tanushpatel-git/CodingProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Backtracking
 |  |
 | ------- |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/tanushpatel-git/CodingProblems/tree/master/0190-reverse-bits) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/tanushpatel-git/CodingProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
