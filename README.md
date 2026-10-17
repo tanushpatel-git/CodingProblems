@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushpatel-git/CodingProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/tanushpatel-git/CodingProblems/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/tanushpatel-git/CodingProblems/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/tanushpatel-git/CodingProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0881-boats-to-save-people](https://github.com/tanushpatel-git/CodingProblems/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tanushpatel-git/CodingProblems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/tanushpatel-git/CodingProblems/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/tanushpatel-git/CodingProblems/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/tanushpatel-git/CodingProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tanushpatel-git/CodingProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
 |  |
