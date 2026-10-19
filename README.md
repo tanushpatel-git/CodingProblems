@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tanushpatel-git/CodingProblems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/tanushpatel-git/CodingProblems/tree/master/0048-rotate-image) |
 | [0198-house-robber](https://github.com/tanushpatel-git/CodingProblems/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/tanushpatel-git/CodingProblems/tree/master/0213-house-robber-ii) |
 | [0881-boats-to-save-people](https://github.com/tanushpatel-git/CodingProblems/tree/master/0881-boats-to-save-people) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tanushpatel-git/CodingProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/tanushpatel-git/CodingProblems/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/tanushpatel-git/CodingProblems/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/tanushpatel-git/CodingProblems/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/tanushpatel-git/CodingProblems/tree/master/0213-house-robber-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
