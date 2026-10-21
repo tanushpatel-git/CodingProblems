@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushpatel-git/CodingProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/tanushpatel-git/CodingProblems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/tanushpatel-git/CodingProblems/tree/master/0048-rotate-image) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tanushpatel-git/CodingProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/tanushpatel-git/CodingProblems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tanushpatel-git/CodingProblems/tree/master/0213-house-robber-ii) |
 | [0881-boats-to-save-people](https://github.com/tanushpatel-git/CodingProblems/tree/master/0881-boats-to-save-people) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/tanushpatel-git/CodingProblems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/tanushpatel-git/CodingProblems/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/tanushpatel-git/CodingProblems/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tanushpatel-git/CodingProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/tanushpatel-git/CodingProblems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tanushpatel-git/CodingProblems/tree/master/0213-house-robber-ii) |
 ## Monotonic Stack
