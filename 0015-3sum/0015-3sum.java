@@ -5,7 +5,7 @@ class Solution {
 
         for (int i = 0; i < nums.length - 2; i++) {
             if (i > 0 && nums[i] == nums[i - 1]) {
-                continue; // Skip duplicate elements for i
+                continue;
             }
 
             int left = i + 1;
