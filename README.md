@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tanushpatel-git/CodingProblems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/tanushpatel-git/CodingProblems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tanushpatel-git/CodingProblems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushpatel-git/CodingProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tanushpatel-git/CodingProblems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/tanushpatel-git/CodingProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tanushpatel-git/CodingProblems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanushpatel-git/CodingProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
