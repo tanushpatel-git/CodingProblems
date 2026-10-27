@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/tanushpatel-git/CodingProblems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/tanushpatel-git/CodingProblems/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/tanushpatel-git/CodingProblems/tree/master/0371-sum-of-two-integers) |
+| [0866-prime-palindrome](https://github.com/tanushpatel-git/CodingProblems/tree/master/0866-prime-palindrome) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tanushpatel-git/CodingProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
@@ -197,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tanushpatel-git/CodingProblems/tree/master/0100-same-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/tanushpatel-git/CodingProblems/tree/master/0866-prime-palindrome) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/tanushpatel-git/CodingProblems/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
