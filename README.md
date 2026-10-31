@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tanushpatel-git/CodingProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/tanushpatel-git/CodingProblems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/tanushpatel-git/CodingProblems/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/tanushpatel-git/CodingProblems/tree/master/0010-regular-expression-matching) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanushpatel-git/CodingProblems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tanushpatel-git/CodingProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/tanushpatel-git/CodingProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tanushpatel-git/CodingProblems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanushpatel-git/CodingProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-prime-palindrome](https://github.com/tanushpatel-git/CodingProblems/tree/master/0866-prime-palindrome) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tanushpatel-git/CodingProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
