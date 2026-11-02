@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/tanushpatel-git/CodingProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/tanushpatel-git/CodingProblems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/tanushpatel-git/CodingProblems/tree/master/0048-rotate-image) |
+| [0088-merge-sorted-array](https://github.com/tanushpatel-git/CodingProblems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanushpatel-git/CodingProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/tanushpatel-git/CodingProblems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tanushpatel-git/CodingProblems/tree/master/0213-house-robber-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanushpatel-git/CodingProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/tanushpatel-git/CodingProblems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/tanushpatel-git/CodingProblems/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/tanushpatel-git/CodingProblems/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/tanushpatel-git/CodingProblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tanushpatel-git/CodingProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/tanushpatel-git/CodingProblems/tree/master/0541-reverse-string-ii) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tanushpatel-git/CodingProblems/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/tanushpatel-git/CodingProblems/tree/master/0088-merge-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/tanushpatel-git/CodingProblems/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
