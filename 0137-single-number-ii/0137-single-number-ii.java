@@ -1,13 +1,11 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int ones = 0;
-        int twos = 0;
-        
-        for (int num : nums) {
-            ones = (ones ^ num) & ~twos;
-            twos = (twos ^ num) & ~ones;
+        int tows = 0;
+        int one = 0;
+        for(int num : nums){
+            one = (one ^ num) & ~tows;
+            tows = (tows ^ num) & ~one;
         }
-        
-        return ones;
+        return one;
     }
 }
