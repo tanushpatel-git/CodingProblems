@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/tanushpatel-git/CodingProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/tanushpatel-git/CodingProblems/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/tanushpatel-git/CodingProblems/tree/master/0680-valid-palindrome-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/tanushpatel-git/CodingProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tanushpatel-git/CodingProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/tanushpatel-git/CodingProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tanushpatel-git/CodingProblems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanushpatel-git/CodingProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1189-maximum-number-of-balloons](https://github.com/tanushpatel-git/CodingProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tanushpatel-git/CodingProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Backtracking
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/tanushpatel-git/CodingProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tanushpatel-git/CodingProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String Matching
 |  |
