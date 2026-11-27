@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/tanushpatel-git/CodingProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/tanushpatel-git/CodingProblems/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/tanushpatel-git/CodingProblems/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/tanushpatel-git/CodingProblems/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/tanushpatel-git/CodingProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tanushpatel-git/CodingProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanushpatel-git/CodingProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/tanushpatel-git/CodingProblems/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
